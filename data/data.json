@@ -1,0 +1,25 @@
+{
+    "data":[
+        {
+            "name" : "Maroon 5",
+            "shortname" : "songsaboutjane",
+            "albumname" : "Songs About Jane",
+            "summary" : " Released in June 2002 (a year later in some markets), the 12-track Songs About Jane saw the band formerly known as Kara’s Flowers reform with the addition of James Valentine to become Maroon 5. ‘Harder To Breathe’ was the set’s first single and broke the band on radio, but subsequent, bigger hits saw the album reach the Top 10 around the globe.",
+            "artwork" : "images/songsAboutJane.jpg",
+            "tracklist" : ["Harder to Breathe",
+                "This Love",
+                "Shiver",
+                "She Will Be Loved",
+                "Tangled",
+                "The Sun",
+                "Must Get Out",
+                "Sunday Morning",
+                "Secret",
+                "Through with You",
+                "Not Coming Home",
+                "Sweetest Goodbye"
+            ]
+        }
+
+    ]
+}
